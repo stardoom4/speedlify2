@@ -6,6 +6,10 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://www.speedlify.dev/"
+		"https://garud.netlify.app/"
+		"https://garud.netlify.app/profile"
+                "https://garud.netlify.app/microblog"
+                "https://garud.netlify.app/articles"
+                "https://garud.netlify.app/shows"
 	]
 };
